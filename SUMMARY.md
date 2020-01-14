@@ -1,13 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [基础概念](docs/basic.md)
-* 划分子系统
-    * 一个“超市”发展的例子
-    * 分层
 * 通信原理
     * [IPC](docs/ipc.md)
-    * [RPC](https://waylau.com/remote-procedure-calls)
 * 网络通信基础
     * [概述](docs/net-overview.md)
     * [Socket](docs/socket.md)
